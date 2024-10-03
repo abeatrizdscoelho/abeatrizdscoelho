@@ -1,4 +1,4 @@
-<h2 align="left">Hi, welcome to my Github profile!</h2>
+<h2 align="left">Hello world, welcome to my Github profile!</h2>
 
 ###
 
@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">• My name is Ana Beatriz Coelho and I'm from São Paulo, Brazil.</p>
+<p align="left">• Meu nome é Ana Beatriz Coelho e sou de São José dos Campos, SP.</p>
+<p align="left">• Estou cursando 1º Semestre de Desenvolvimento de Software Multiplataforma na FATEC.</p>
+
 
 ###
 
