@@ -12,7 +12,6 @@
 ## Contatos
 
  <a href= "https://www.linkedin.com/in/abeatrizcoelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "https://github.com/abeatrizdscoelho" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  <a href = "mailto:anabeatrizdscoelho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br>
@@ -27,7 +26,7 @@
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="40"/>
 </div>
 
 <br>
