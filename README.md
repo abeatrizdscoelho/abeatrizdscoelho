@@ -1,36 +1,38 @@
 <h2 align="left">Hello world, welcome to my Github profile!</h2>
 
-###
+<br>
 
-<h3 align="left">About Me</h3>
-
-###
+## Sobre Mim
 
 <p align="left">• Meu nome é Ana Beatriz Coelho e sou de São José dos Campos, SP.</p>
-<p align="left">• Estou cursando 1º Semestre de Desenvolvimento de Software Multiplataforma na FATEC.</p>
+<p align="left">• Estou cursando o 2º Semestre de Desenvolvimento de Software Multiplataforma na FATEC.</p>
 
+<br> 
 
-###
+## Contatos
 
-<h3 align="left">My Techs</h3>
+ <a href= "https://www.linkedin.com/in/abeatrizcoelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "https://github.com/abeatrizdscoelho" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href = "mailto:anabeatrizdscoelho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-###
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+## Meus Principais Conhecimentos
+
+<div align='left'>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="40"/>
 </div>
 
-###
+<br>
 
-<h3 align="left">My Stats</h3>
+## Estatísticas
 
 ###
 
@@ -41,20 +43,7 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
 
-###
-
-<div align="left">
-  <a href="anabeatrizdscoelho@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abeatrizcoelho/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/bia.dsc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
