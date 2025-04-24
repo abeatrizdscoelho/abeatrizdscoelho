@@ -19,14 +19,37 @@
 ## Meus Principais Conhecimentos
 
 <div align='left'>
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
 
 <br>
