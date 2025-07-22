@@ -5,7 +5,7 @@
 ## Sobre Mim
 
 <p align="left">• Meu nome é Ana Beatriz Coelho e sou de São José dos Campos, SP.</p>
-<p align="left">• Estou cursando o 2º Semestre de Desenvolvimento de Software Multiplataforma na FATEC.</p>
+<p align="left">• Estou cursando o 3º Semestre de Desenvolvimento de Software Multiplataforma na FATEC.</p>
 
 <br> 
 
