@@ -1,12 +1,10 @@
 <h2 align="left">Olá, eu sou a Bia! 👋🏻👩🏻‍💻</h2>
 
-<img align="right" alt="Code Lofi" width="140" src="https://github.com/user-attachments/assets/e529c6b4-1a0a-4aa3-bce5-41af598d5c44" />
-
 - 💼 **Estagiária** de **Desenvolvimento de Software** na **Nuel Tech**. <br>
 - 🎓 **Estudante** do 4º semestre de **Desenvolvimento de Software Multiplataforma** na **Fatec SJC**. <br>
 - 🌍 Inglês **Avançado (C1)**. <br>
 
-### Contatos
+## Contatos
 
 <a href="https://www.linkedin.com/in/abeatrizcoelho/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-F365CA?style=for-the-badge&logo=linkedin&logoColor=white" />
