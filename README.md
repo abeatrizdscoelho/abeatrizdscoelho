@@ -1,17 +1,17 @@
 <h2 align="left">Olá, eu sou a Bia! 👋🏻👩🏻‍💻</h2>
 
-- 💼 **Estagiária** de **Desenvolvimento de Software** na **Nuel Tech**. <br>
-- 🎓 **Estudante** do 4º semestre de **Desenvolvimento de Software Multiplataforma** na **Fatec SJC**. <br>
-- 🌍 Inglês **Avançado (C1)**. <br>
+- 💼 Estagiária de Desenvolvimento de Software na Nuel Tech Soluções Inteligentes. <br>
+- 🎓 Estudante do 4º semestre de Desenvolvimento de Software Multiplataforma na Fatec SJC. <br>
+- 🌍 Inglês Avançado (C1). <br>
 
 ## Contatos
 
 <a href="https://www.linkedin.com/in/abeatrizcoelho/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-F365CA?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:anabeatrizdscoelho@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-F365CA?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
@@ -33,10 +33,6 @@
   <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootstrap logo" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwind logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
   <img width="2" />
