@@ -2,7 +2,7 @@
 
 - 💼 Estagiária de Desenvolvimento de Software na Nuel Tech Soluções Inteligentes. <br>
 - 🎓 Estudante do 4º semestre de Desenvolvimento de Software Multiplataforma na Fatec SJC. <br>
-- 🌍 Inglês Avançado (C1). <br>
+- 🌍 Inglês Intermediário (B2). <br>
 
 ## Contatos
 
