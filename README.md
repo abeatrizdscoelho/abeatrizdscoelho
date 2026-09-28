@@ -1,7 +1,7 @@
 <h2 align="left">Olá, eu sou a Bia! 👋🏻👩🏻‍💻</h2>
 
 - 💼 Estagiária de Desenvolvimento de Software na Nuel Tech Soluções Inteligentes. <br>
-- 🎓 Estudante do 4º semestre de Desenvolvimento de Software Multiplataforma na Fatec SJC. <br>
+- 🎓 Estudante do 5º semestre de Desenvolvimento de Software Multiplataforma na Fatec SJC. <br>
 - 🌍 Inglês Intermediário (B2). <br>
 
 ## Contatos
@@ -34,11 +34,17 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo" />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=dart" height="42" alt="dart logo" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="42" alt="flutter logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=flask" height="42" alt="flask logo" />
   <img width="2" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="mongodb logo" />
   <img width="2" />
@@ -50,11 +56,4 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo" />
   <img width="2" />
-</div>
-
-## Estatísticas 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abeatrizdscoelho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abeatrizdscoelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
 </div>
